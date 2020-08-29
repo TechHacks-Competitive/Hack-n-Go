@@ -12,8 +12,8 @@ theme:
   custom_dir: overrides/
   palette:
     scheme: slate
-    primary: light blue
-    accent: orange
+    primary:indigo
+    accent: deep orange
   font:
     text: Fira Sans
     code: Fira Mono
@@ -75,25 +75,26 @@ extra_javascript:
 nav:
   - Home: index.md
   - Getting Started:
-    - Introduction to Hackathons: index.md
-    - Intro to Discord: index.md
-    - Intro to Slack: index.md
-    - Intro to Devpost: index.md
-    - Idea Creation Guide: index.md
-    - Team Creation Guide: index.md
-    - Video Creation Guide: index.md
+    - Introduction to Hackathons: start/hackathons.md
+    - Intro to Discord: start/discod.md
+    - Intro to Slack: start/slack.md
+    - Intro to Devpost: start/devpost.md
+    - Idea Creation Guide: start/idea.md
+    - Team Creation Guide: start/team.md
+    - Video Creation Guide: start/video.md
   - Hacker Tools:
-    - Intro to the Shell/Commandline: index.md
-    - Version Control (Git): index.md
-    - How to use APIs in Hackathons: index.md
-    - How to Automate Everything with the Commandline: index.md
-    - Heroku: index.md
-    - Other Useful Tools: index.md
+    - Intro to the Shell/Commandline: hacker/commandline.md
+    - Version Control (Git): hacker/git.md
+    - How to use APIs in Hackathons: hacker/api.md
+    - How to Automate Everything with the Commandline: hacker/automate.md
+    - Heroku: hacker/heroku.md
+    - Useful Beginner Templates: hacker/template.md
+    - Other Useful Tools: hacker/others.md
   - Hardware Guides:
-    - A little physics before you go: index.md
-    - Arduino for Newbies and Pros: index.md
-    - Raspberry Pis for Newbies and Pros: index.md
+    - A little physics before you go: hardware/physics.md
+    - Arduino for Newbies and Pros: hardware/arduino.md
+    - Raspberry Pis for Newbies and Pros: hardware/raspberrypi.md
   - Mentionable Guides:
-    - How a little design can mean everything in a project: index.md
+    - How a little design can mean everything in a project: mentionable/design.md
   - License:
     - License: license.md
