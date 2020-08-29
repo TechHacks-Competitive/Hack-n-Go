@@ -9,18 +9,17 @@
 
 
 ### Check-List
-1. [ ] Introduction to Hackathons, CTFS, HackCons, etc.
-2. [ ] Discord noobie guide.
-3. [ ] Slack noo:MarkdownPreviewbie guide.
-4. [ ] Devpost noobie guide.
-5. [ ] Idea creation guide.
-6. [ ] Team creation guide.
-7. [ ] Video creation guide.
-8. [ ] Git noobie and advanced guide.
-9. [ ] Heroku noobie guide.
-10. [ ] Hardware noobie guide.
-11. [ ] Github Student Developer Pack guide.
-12. [ ] API noobie guide to JSON formats, REST, POST and GET requests.
+1. [X] Introduction to Hackathons, CTFS, HackCons, etc.
+2. [X] Discord noobie guide.
+3. [X] Devpost noobie guide.
+4. [ ] Idea creation guide.
+5. [ ] Team creation guide.
+6. [ ] Git noobie and advanced guide.
+7. [X] Heroku noobie guide.
+8. [X] Homebrew
+9. [ ] Hardware noobie guide.
+10. [ ] Github Student Developer Pack guide.
+11. [ ] API noobie guide to JSON formats, REST, POST and GET requests.
 
 #### Feature List
 * [ ] Curated images, graphs, Infographics.
