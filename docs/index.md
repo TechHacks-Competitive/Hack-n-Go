@@ -13,4 +13,4 @@ template: home.html
 
 Created by hackers, for hackers.
 
-[Get Started :fontawesome-solid-paper-plane:](){ .md-button .md-button--primary}
+[Get Started :fontawesome-solid-paper-plane:](/start/hackathons){ .md-button .md-button--primary}
