@@ -4,7 +4,7 @@ site_author: TechHack-Competitive
 copyright: Copyright &copy; 2020 TechHacks-Competitive
 site_url:
 repo_url: https://github.com/TechHacks-Competitive/Hack-n-Go
-repo_name: Shaedil/Hack-n-Go
+repo_name: TechHacks-Competitive/Hack-n-Go
 edit_uri: ""
 
 theme:
@@ -25,13 +25,13 @@ theme:
     - tabs
 
 extra:
-  index:
+  social:
     - icon: fontawesome/solid/map-marker-alt
-      link:
-      name: Shaedil Dider
+      link: https://techhacks.nyc/
+      name: TechHacks
     - icon: fontawesome/solid/envelope
-      link: mailto:<shaedildider@gmail.com>
-      name: shaedildider@gmail.com
+      link: mailto:<matthew@techhacks.nyc>
+      name: matthew@techhacks.nyc
     - icon: fontawesome/brands/github
       link: https://github.com/TechHacks-Competitive
       name: GitHub
