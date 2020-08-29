@@ -12,8 +12,8 @@ theme:
   custom_dir: overrides/
   palette:
     scheme: slate
-    primary:indigo
-    accent: deep orange
+    primary: indigo
+    accent: deep-orange
   font:
     text: Fira Sans
     code: Fira Mono
