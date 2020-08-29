@@ -1,0 +1,99 @@
+site_name: Hack n Go
+site_description: A curated list for hackers, by hackers
+site_author: TechHack-Competitive
+copyright: Copyright &copy; 2020 TechHacks-Competitive
+site_url:
+repo_url: https://github.com/TechHacks-Competitive/Hack-n-Go
+repo_name: Shaedil/Hack-n-Go
+edit_uri: ""
+
+theme:
+  name: material
+  custom_dir: overrides/
+  palette:
+    scheme: slate
+    primary: light blue
+    accent: orange
+  font:
+    text: Fira Sans
+    code: Fira Mono
+  icon:
+    logo: material/book-open-page-variant
+  features:
+    - instant
+    - search
+    - tabs
+
+extra:
+  index:
+    - icon: fontawesome/solid/map-marker-alt
+      link:
+      name: Shaedil Dider
+    - icon: fontawesome/solid/envelope
+      link: mailto:<shaedildider@gmail.com>
+      name: shaedildider@gmail.com
+    - icon: fontawesome/brands/github
+      link: https://github.com/TechHacks-Competitive
+      name: GitHub
+
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.attr_list
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.smarty
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - Introduction to Hackathons: index.md
+    - Intro to Discord: index.md
+    - Intro to Slack: index.md
+    - Intro to Devpost: index.md
+    - Idea Creation Guide: index.md
+    - Team Creation Guide: index.md
+    - Video Creation Guide: index.md
+  - Hacker Tools:
+    - Intro to the Shell/Commandline: index.md
+    - Version Control (Git): index.md
+    - How to use APIs in Hackathons: index.md
+    - How to Automate Everything with the Commandline: index.md
+    - Heroku: index.md
+    - Other Useful Tools: index.md
+  - Hardware Guides:
+    - A little physics before you go: index.md
+    - Arduino for Newbies and Pros: index.md
+    - Raspberry Pis for Newbies and Pros: index.md
+  - Mentionable Guides:
+    - How a little design can mean everything in a project: index.md
+  - License:
+    - License: license.md
