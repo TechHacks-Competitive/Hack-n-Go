@@ -1,5 +1,7 @@
 # Intro to Devpost
 
+<img src="https://i.ibb.co/FVBm6xm/Screenshot-from-2020-08-29-18-46-54.png" width="200"></img>
+
 Devpost is a website designed for organizations, event organizers, and people like you.
 
 It's meant to display hackathons and events, from which you can join and participate in them.
@@ -11,6 +13,8 @@ Here, you can find multitudes of hackathons ranging in minimum skill level from 
 We'll discuss two things you need to know in order to interact with Devpost.
 
 ## How to find Hackathons
+
+<img src="https://i.ibb.co/7XqP7wk/Screenshot-from-2020-08-29-18-49-03.png" width="200"</img>
 
 Finding hackathons is the bread and butter of Devpost.
 
