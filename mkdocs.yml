@@ -84,7 +84,7 @@ nav:
     - Video Creation Guide: start/video.md
   - Hacker Tools:
     - Intro to the Shell/Commandline: hacker/commandline.md
-    - Version Control (Git): hacker/git.md
+    - Version Control w/ Git: hacker/git.md
     - How to use APIs in Hackathons: hacker/api.md
     - How to Automate Everything with the Commandline: hacker/automate.md
     - Heroku: hacker/heroku.md
