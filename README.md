@@ -11,7 +11,7 @@
 ### Check-List
 1. [ ] Introduction to Hackathons, CTFS, HackCons, etc.
 2. [ ] Discord noobie guide.
-3. [ ] Slack noobie guide.
+3. [ ] Slack noo:MarkdownPreviewbie guide.
 4. [ ] Devpost noobie guide.
 5. [ ] Idea creation guide.
 6. [ ] Team creation guide.
