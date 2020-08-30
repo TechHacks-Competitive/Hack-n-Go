@@ -1,6 +1,6 @@
 # Intro to Devpost
 
-<img src="https://i.ibb.co/FVBm6xm/Screenshot-from-2020-08-29-18-46-54.png" width="200"></img>
+<img src="https://i.ibb.co/FVBm6xm/Screenshot-from-2020-08-29-18-46-54.png" height="200"></img>
 
 Devpost is a website designed for organizations, event organizers, and people like you.
 
@@ -14,13 +14,13 @@ We'll discuss two things you need to know in order to interact with Devpost.
 
 ## How to find Hackathons
 
-<img src="https://i.ibb.co/7XqP7wk/Screenshot-from-2020-08-29-18-49-03.png" width="200"</img>
+<img src="https://i.ibb.co/7XqP7wk/Screenshot-from-2020-08-29-18-49-03.png" width="800"></img>
 
 Finding hackathons is the bread and butter of Devpost.
 
 Once you've signed up for an account on Devpost, via email or github account, you can view the list of hackathons posted and updated every few seconds.
 
-https://devpost.com/hackathons
+[https://devpost.com/hackathons](https://devpost.com/hackathons)
 
 Here, you can scroll down and click on a card and look at the event details.
 

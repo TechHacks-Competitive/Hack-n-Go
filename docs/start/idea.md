@@ -1,5 +1,7 @@
 # Idea Creation Guide
 
+<img src='https://i.ibb.co/3zVY9YS/science-discovery.png' height="200"></img>
+
 For a hackathon or for any startup, you need an idea.
 
 An idea is a powerful thing, it can bring people towards you, and it can win you prizes.

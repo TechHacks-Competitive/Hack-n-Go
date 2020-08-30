@@ -82,6 +82,7 @@ nav:
     - Team Creation Guide: start/team.md
   - Hacker Tools:
     - Intro to the Shell/Commandline: hacker/commandline.md
+    - HomeBrew, A Mac User's Shell: homebrew.md
     - Version Control (Git): hacker/git.md
     - How to use APIs in Hackathons: hacker/api.md
     - How to Automate Everything with the Commandline: hacker/automate.md
