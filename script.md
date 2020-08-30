@@ -34,4 +34,3 @@ As you can see here, we have tabs in our pages that link to the different learni
 
 Logo: [insert logo here]
 Text: Expect more. Search less.
-
