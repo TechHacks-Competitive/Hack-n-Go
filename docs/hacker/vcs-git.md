@@ -12,7 +12,9 @@ Guide available in two verions:
 
     > Learn from experience, that's how we all did it. We didn't have any of those fancy guides on how to start, we sorta knew what to do from trial and error.
 
-    > Your mission is to create a 'Hello-World' repository on Github and commit and push and pull changes.
+    So take a few moments and go through this hands-on tutorial which will teach you everything you need to know
+
+    [http://jlord.us/git-it/](http://jlord.us/git-it/)
 
 === "Visual"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/SWYqp7iY_Tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

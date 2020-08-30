@@ -1,5 +1,13 @@
 # The command line
 
+=== "Visual"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2PGnYjbYuUo" end=120 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+=== "Kinesthetic"
+    If you want to get a hands on free guide, but don't want to have to download a terminal emulator, try this guide:
+
+    [https://www.learnshell.org/](https://www.learnshell.org/)
+
 ## Getting around
 
 To get around in the terminal, you can use the `cd` command.
