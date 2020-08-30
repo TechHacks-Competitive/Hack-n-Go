@@ -776,8 +776,7 @@ npm install express &ndash;save</p>
 </blockquote>
 <p>Ok, great, we have everything we need in the file directory, we just have to append some stuff to the files. </p>
 <h5 id="appjs">app.js<a class="headerlink" href="#appjs" title="Permanent link">&para;</a></h5>
-<div class="highlight"><pre><span></span><code>{
-    var express = require(&#39;express&#39;);
+<div class="highlight"><pre><span></span><code>    var express = require(&#39;express&#39;);
     var app = express();
 
     app.get(&#39;/&#39;, function (req, res) {
@@ -787,7 +786,6 @@ npm install express &ndash;save</p>
     app.listen(3000, function () {
         console.log(&#39;Example app listening on port 3000!&#39;);
 });
-}
 </code></pre></div>
 
 <h5 id="procfile">Procfile<a class="headerlink" href="#procfile" title="Permanent link">&para;</a></h5>
