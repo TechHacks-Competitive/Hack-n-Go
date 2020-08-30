@@ -64,7 +64,6 @@ Let's create a couple files.
 Ok, great, we have everything we need in the file directory, we just have to append some stuff to the files. 
 ##### app.js
 ```
-{
 	var express = require('express');
 	var app = express();
 
@@ -75,7 +74,6 @@ Ok, great, we have everything we need in the file directory, we just have to app
 	app.listen(3000, function () {
 		console.log('Example app listening on port 3000!');
 });
-}
 ```
 
 ##### Procfile
