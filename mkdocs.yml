@@ -82,7 +82,7 @@ nav:
   - Hacker Tools:
     - Version Control w/ Git: hacker/vcs-git.md
     - Intro to the Shell/Commandline: hacker/commandline.md
-    - HomeBrew, A Mac User's Shell: homebrew.md
+    - HomeBrew, A Mac User's Shell: hacker/homebrew.md
     - How to use APIs in Hackathons: hacker/api.md
     - How to Automate Everything with the Commandline: hacker/automate.md
     - Heroku: hacker/heroku.md
