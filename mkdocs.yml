@@ -87,11 +87,11 @@ nav:
     - How to Automate Everything with the Commandline: hacker/automate.md
     - Heroku: hacker/heroku.md
     - Other Useful Tools: hacker/others.md
-  - Hardware Guides:
-    - A little physics before you go: hardware/physics.md
-    - Arduino for Newbies and Pros: hardware/arduino.md
-    - Raspberry Pis for Newbies and Pros: hardware/raspberrypi.md
-  - Mentionable Guides:
-    - How a little design can mean everything in a project: mentionable/design.md
+  # - Hardware Guides:
+  #   - A little physics before you go: hardware/physics.md
+  #   - Arduino for Newbies and Pros: hardware/arduino.md
+  #   - Raspberry Pis for Newbies and Pros: hardware/raspberrypi.md
+  # - Mentionable Guides:
+  #   - How a little design can mean everything in a project: mentionable/design.md
   - License:
     - License: license.md

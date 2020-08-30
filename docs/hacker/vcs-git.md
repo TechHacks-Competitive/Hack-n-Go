@@ -5,6 +5,19 @@ Without VCS, working with others would be close to impossible.
 By far the most popular VCS out there is Git.
 Git is special that in that it is completely decentralized and follows a branching model, allowing for near-flawless collaboration.
 
+Guide available in two verions:
+
+=== "Visual"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/SWYqp7iY_Tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+=== "Kinesthetic"
+    > Start your own repo, often times, the best way to learn is by going out and doing it.
+
+    > Learn from experience, that's how we all did it. We didn't have any of those fancy guides on how to start, we sorta knew what to do from trial and error.
+
+    > Your mission is to create a 'Hello-World' repository on Github and commit and push and pull changes.
+
+
 ## Setting up Git
 
 Git is available on all major platforms (Windows/MacOS/Linux/Unix).
