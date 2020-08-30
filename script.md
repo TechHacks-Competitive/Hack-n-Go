@@ -26,6 +26,9 @@ Also, many people have different learning styles which is not always addressed i
 
 That's where we come in. [insert commercial music here]
 
+
+# Solution
+
 Hack N Go is a curated list of guides to get you up-to-speed and was designed for the average hackathon newbie.
 
 [insert website screen recording]
