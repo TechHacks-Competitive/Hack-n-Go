@@ -10,7 +10,6 @@ In a better world, there would be a central hub of documentation, where Terminal
 Well, thank god we live in a better world!
 Introducing Hack N Go!
 
-*How about this?*
 
 # The Problem
 Beginner hackers in this day and age have skill deficits compared to their
@@ -33,7 +32,9 @@ Hack N Go is a curated list of guides to get you up-to-speed and was designed fo
 
 [insert website screen recording]
 
-As you can see here, we have tabs in our pages that link to the different learning styles our hackers have: Reading, Auditory, and Project based
+As you can see here, we have mutitple guides for the new hacker. We have intros to Discord, Devpost, hackathons, git, commandline even heroku. To address the problem of different learning styles, we have tabs in each document that addresses each learning style our hackers might have: Reading, Auditory, and Project based
+
+So step up and stand shoulder-to-shoulders of hackers.
 
 Logo: [insert logo here]
 Text: Expect more. Search less.

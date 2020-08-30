@@ -24,6 +24,7 @@ Let's dive right into the few differences between these three categories.
 Also, if you are a visual learner, try this video
 
 === "Kinesthetic"
+
     Join a hackathon, often times, the best way to learn is by going out and doing it.
 
     Learn from experience, that's how we all did it. We didn't have any of those fancy guides on how to start, we sorta knew what to expect.
@@ -31,6 +32,7 @@ Also, if you are a visual learner, try this video
     Your mission is to join a hackathon, just for the experience of joining them, you don't have to participate in them if you don't want to.
 
 === "Visual"
+
     <iframe width="560" height="315" src="https://www.youtube.com/embed/qawOOESXCVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
