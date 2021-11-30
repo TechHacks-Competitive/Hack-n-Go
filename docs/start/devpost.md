@@ -1,20 +1,20 @@
 # Intro to Devpost
 
-<img src="https://i.ibb.co/FVBm6xm/Screenshot-from-2020-08-29-18-46-54.png" height="200"></img>
+<img src="https://drive.google.com/uc?id=1cReOsnqnldr9BA6xy35Kzb413bVq5XPA" height="200"></img>
 
-Devpost is a website designed for organizations, event organizers, and people like you.
+Devpost is a website designed for organizations, event organizers, and hackers like you.
 
-It's meant to display hackathons and events, from which you can join and participate in them.
+It's meant to help hackathons, from which hackers can join and participate in them.
 
-Over the past few months, this quarantine has nearly doubled the usage of Devpost as a repository of event hackathons.
+Over the past few months, this quarantine has nearly doubled the usage of Devpost as a repository for event hackathons.
 
-Here, you can find multitudes of hackathons ranging in minimum skill level from beginner to working professional.
+Here, you can find multitudes of hackathons ranging in difficulty from beginner to professional.
 
 We'll discuss two things you need to know in order to interact with Devpost.
 
 ## How to find Hackathons
 
-<img src="https://i.ibb.co/7XqP7wk/Screenshot-from-2020-08-29-18-49-03.png" width="800"></img>
+<img src="https://drive.google.com/uc?id=11iupzQpLvFYoAwFIdAhQ48ydek_Y0F23" width="800"></img>
 
 Finding hackathons is the bread and butter of Devpost.
 
@@ -30,7 +30,9 @@ It's important you read through all of these, especially the eligibility, the re
 
 From here, you can click the green button at the top to join the hackathon and fulfill the task list they provide you, look at the participants, submissions, and any updates.
 
-It's important you understand the hackathon and what they expect of you when you participate, You may want to go to participants or the social media they provide you and direct message some folks who are looking for a team.
+It's important you understand the hackathon and what they expect of you when you participate.
+
+Next, you'll need to go to the participants tab or their communications platform they provide you and direct message some folks who are looking for a team.
 
 ## How to submit projects
 

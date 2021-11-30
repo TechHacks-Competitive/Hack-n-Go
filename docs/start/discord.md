@@ -11,7 +11,7 @@ If you're familiar with any other forms of instant messaging like Instagram or F
 
 ## Signing up for Discord
 
-So, to get started, we'll have you go to https://discord.com/login and sign up.
+So, to get started, we'll have you go to [https://discord.com/login](https://discord.com/login) and sign up.
 
 Follow the directions, put in an email, password, verify the account by checking your email and click on the link the hackathon sent you to join the Discord server
 
