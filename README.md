@@ -7,6 +7,9 @@
 	</blockquote>
 </div>
 
+## Video Demonstration
+[![Hack-n-Go Vide Demonstration](https://img.youtube.com/vi/5waMG77l1hs/0.jpg)](https://www.youtube.com/watch?v=5waMG77l1hs)
+
 ## Inspiration
 
 In our team, we used to have a member who knew the Python programming language, but didn't know anything at all about the basic tools that was like common knowledge to the rest of us. 
